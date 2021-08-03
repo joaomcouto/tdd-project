@@ -1,0 +1,2 @@
+1 - Testes funcionais podem ter como funcão verificar a exatidão de um recurso particular do sistema, comparando resultados obtidos por certa entrada com o esperado pela especificação sem se importar com resultados intermediários (que são, muitas vezes, o objeto de interesse de testes de unidade)
+2 - Testes de unidade são frequentemente relizados de forma isolada do resto do sistema fazendo uso muitas vezes doubles ao passao que testes funcionais pode fazer uso de vários métodos e dependências
